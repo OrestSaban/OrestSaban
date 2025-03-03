@@ -2,6 +2,7 @@
 <p>I'm a Junior Software Developer currently pursuing a bachelor's degree at CTU in Prague. I strive to build projects from the ground up—handling everything from planning and design to solving real-life problems through digital solutions. I'm eager to collaborate and connect with people from around the world.</p>
 <p>
   - Approaching Software Engineering Degree
+  <br>
   - Improving skills related to frontend development
 </p>p
 <h2>🚀 Languages and Tools I Use</h2>
