@@ -1,5 +1,9 @@
 <h1>Hi 👋, I'm Orest</h1>
 <p>I'm a Junior Software Developer currently pursuing a bachelor's degree at CTU in Prague. I strive to build projects from the ground up—handling everything from planning and design to solving real-life problems through digital solutions. I'm eager to collaborate and connect with people from around the world.</p>
+<p>
+  - Approaching Software Engineering Degree
+  - Improving skills related to frontend development
+</p>p
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
